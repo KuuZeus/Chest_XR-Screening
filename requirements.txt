@@ -1,7 +1,5 @@
 ﻿markdown-it-py==3.0.0
 numpy==1.25.2
-overrides==7.4.0
-packaging==23.1
 Pillow==9.5.0
 streamlit==1.26.0
 streamlit-option-menu==0.3.6
